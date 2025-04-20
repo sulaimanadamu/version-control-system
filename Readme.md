@@ -23,7 +23,7 @@ There are also two types of VCS
 
 **Centralised version control system** are strictly server based and the history of the project are stored only on the project server. if the server goes offline there will be no way to develop the application.
 
-In **Decentralised version control system**, every user has complete access to the project history at all time locally.
+In **Decentralised version control system**, every user has complete access to the project history at all time locally so when the central access point such as github is unavailable the history is saved on individual computer.
 
 
 
