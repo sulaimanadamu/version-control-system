@@ -25,6 +25,16 @@ There are also two types of VCS
 
 In **Decentralised version control system**, every user has complete access to the project history at all time locally so when the central access point such as github is unavailable the history is saved on individual computer.
 
+Git in use
+![displaying some git command](./images/git-in-use.png)
+
+one of the most used collaboration environment along side git is github
+here is a quick look at how it looks like
+
+![image of github dashboard](./images/github-dashboard.png)
+
+here is [my repository link](
+https://github.com/sulaimanadamu/version-control-system)
 
 
 
