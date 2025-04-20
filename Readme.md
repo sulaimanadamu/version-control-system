@@ -21,9 +21,9 @@ There are also two types of vcs
 - Centralised Version control system
 - Decentralised Version control system
 
-centralised version control system are strictly server based and the history of the project are stored only on the project server. if the server goes offline there will be no way to develop the application.
+**Centralised version control system** are strictly server based and the history of the project are stored only on the project server. if the server goes offline there will be no way to develop the application.
 
-in Decentralised version control system, every user has complete access to the project history at all time locally.
+In **Decentralised version control system**, every user has complete access to the project history at all time locally.
 
 
 
