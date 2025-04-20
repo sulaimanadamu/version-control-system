@@ -16,7 +16,7 @@ There are different version control systems like
 - mercurial
 - Git (the most popular)
 
-There are also two types of vcs
+There are also two types of VCS
 
 - Centralised Version control system
 - Decentralised Version control system
